@@ -9,5 +9,5 @@ export const social = {
   linkedin: "https://www.linkedin.com/in/vin%C3%ADcius-andrey-9a3aa2121",
   instagram: "https://www.instagram.com/vinishiii",
   youtube: "https://youtube.com/@viniciusandrey4755",
-  portfolio: null as string | null, // [ADICIONAR URL DO PORTFOLIO/DOMINIO PROPRIO]
+  portfolio: "https://portfolio-vinicius-andrey.onrender.com" as string | null,
 };
