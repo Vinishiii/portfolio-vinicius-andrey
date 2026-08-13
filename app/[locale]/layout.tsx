@@ -57,11 +57,13 @@ export async function generateMetadata({
       siteName: profile.name,
       locale,
       type: "website",
+      images: [{ url: `/og/${locale}.png`, width: 1200, height: 630 }],
     },
     twitter: {
       card: "summary_large_image",
       title: t("title"),
       description: t("description"),
+      images: [`/og/${locale}.png`],
     },
     robots: { index: true, follow: true },
   };
