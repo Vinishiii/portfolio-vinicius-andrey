@@ -1,0 +1,36 @@
+@theme {
+  /* Surfaces */
+  --color-bg: #08080a;
+  --color-bg-elevated: #111114;
+  --color-bg-subtle: #18181c;
+  --color-border: #26262b;
+  --color-border-soft: #1c1c20;
+
+  /* Foreground */
+  --color-fg: #f3f2ef;
+  --color-fg-muted: #9c9ba3;
+  --color-fg-faint: #67666e;
+
+  /* Accent — muted champagne/bronze metallic, used sparingly */
+  --color-accent: #c9a875;
+  --color-accent-soft: #c9a87526;
+  --color-accent-dim: #8f7a58;
+
+  /* Typography */
+  --font-display: var(--font-geist);
+  --font-serif: var(--font-instrument-serif);
+
+  /* Motion */
+  --ease-premium: cubic-bezier(0.16, 1, 0.3, 1);
+  --duration-fast: 200ms;
+  --duration-base: 500ms;
+  --duration-slow: 900ms;
+
+  /* Radius */
+  --radius-sm: 6px;
+  --radius-md: 12px;
+  --radius-lg: 20px;
+
+  /* Breakpoints (Tailwind defaults kept, xs added for very small phones) */
+  --breakpoint-xs: 22.5rem;
+}

@@ -1,0 +1,198 @@
+{
+  "meta": {
+    "title": "Vinícius Andrey — Software, Dados & IA",
+    "description": "Portfólio de Vinícius Andrey Ribeiro Lima: software, dados, automação e produtos digitais na interseção entre tecnologia e negócios."
+  },
+  "nav": {
+    "home": "Início",
+    "about": "Sobre",
+    "work": "Projetos",
+    "experience": "Trajetória",
+    "skills": "Skills",
+    "testimonials": "Depoimentos",
+    "contact": "Contato",
+    "contactCta": "Contato",
+    "languageLabel": "Idioma",
+    "openMenu": "Abrir menu",
+    "closeMenu": "Fechar menu"
+  },
+  "hero": {
+    "eyebrow": "Software · Dados · IA · Negócios",
+    "headline": "Construindo na interseção entre Tecnologia, Dados, IA e Negócios.",
+    "subheadline": "Transformo processos e ideias em produtos digitais — unindo código, dados e uma visão analítica de negócio.",
+    "ctaPrimary": "Explorar projetos",
+    "ctaSecondary": "Vamos conversar",
+    "scrollHint": "Role para explorar"
+  },
+  "about": {
+    "eyebrow": "Sobre",
+    "title": "Quem é Vinícius?",
+    "paragraphs": [
+      "Vinícius transita entre operações de negócio e construção de software — uma combinação pouco comum que nasceu da experiência prática em atendimento, suporte técnico e processos administrativos, e evoluiu para uma dedicação séria à programação e aos dados.",
+      "Atualmente cursando Ciência da Computação (UNIP) e Engenharia de Software (UNICID), desenvolve com Python, JavaScript e React, e usa dados — com Pandas, NumPy e SQL — para automatizar processos e apoiar decisões.",
+      "O fio condutor é o pensamento analítico: entender um problema de negócio a fundo antes de escrever a primeira linha de código, e usar tecnologia como ferramenta para resolver algo real."
+    ],
+    "photoAlt": "Foto de Vinícius Andrey",
+    "photoPlaceholder": "[ADICIONAR FOTO]"
+  },
+  "whatIDo": {
+    "eyebrow": "Atuação",
+    "title": "O que eu faço",
+    "items": {
+      "software": {
+        "index": "01",
+        "title": "Software & Web",
+        "description": "Interfaces e aplicações web construídas com atenção a estrutura, performance e experiência do usuário."
+      },
+      "ai": {
+        "index": "02",
+        "title": "Artificial Intelligence",
+        "description": "Aplicação prática de IA e prompt engineering para resolver problemas reais e acelerar fluxos de trabalho."
+      },
+      "data": {
+        "index": "03",
+        "title": "Data & Automation",
+        "description": "Automação de processos e análise de dados com Python, transformando planilhas e tarefas manuais em fluxos confiáveis."
+      },
+      "business": {
+        "index": "04",
+        "title": "Business & Digital Operations",
+        "description": "Vivência prática em operações, atendimento e processos — a base que conecta tecnologia a resultado de negócio."
+      }
+    }
+  },
+  "projects": {
+    "eyebrow": "Projetos",
+    "title": "Trabalho selecionado",
+    "viewCaseStudy": "Ver case study",
+    "visitProject": "Visitar projeto",
+    "viewCode": "Ver código",
+    "category": "Categoria",
+    "technologies": "Tecnologias",
+    "emptyTitle": "Projetos em preparação",
+    "emptyDescription": "Os case studies estão sendo organizados e serão publicados aqui em breve."
+  },
+  "projectDetail": {
+    "back": "Voltar para projetos",
+    "problem": "Problema",
+    "approach": "Abordagem",
+    "solution": "Solução",
+    "results": "Resultados",
+    "technologies": "Tecnologias",
+    "links": "Links",
+    "visitProject": "Visitar projeto",
+    "viewCode": "Ver no GitHub",
+    "notFoundTitle": "Projeto não encontrado",
+    "notFoundDescription": "Este case study ainda não foi publicado."
+  },
+  "experience": {
+    "eyebrow": "Trajetória",
+    "title": "Experiência profissional",
+    "present": "Atual",
+    "summaryPlaceholder": "[ADICIONAR DESCRIÇÃO DAS RESPONSABILIDADES]",
+    "expand": "Ver detalhes",
+    "collapse": "Ocultar detalhes"
+  },
+  "skills": {
+    "eyebrow": "Skills",
+    "title": "Ferramentas e competências",
+    "categories": {
+      "programming": "Programação",
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "data": "Dados",
+      "database": "Banco de dados",
+      "tools": "Ferramentas",
+      "methodologies": "Metodologias"
+    }
+  },
+  "certifications": {
+    "eyebrow": "Formação continuada",
+    "title": "Certificações",
+    "addLogo": "[ADICIONAR LOGO]",
+    "addLink": "[ADICIONAR LINK]"
+  },
+  "testimonials": {
+    "eyebrow": "Depoimentos",
+    "title": "O que dizem sobre o trabalho",
+    "emptyTitle": "Depoimentos selecionados em breve.",
+    "emptyDescription": "Esta seção será atualizada assim que os primeiros depoimentos forem coletados.",
+    "formTitle": "Deixe seu depoimento",
+    "formSubtitle": "Trabalhou comigo ou quer deixar um comentário? Escreva aqui — leio tudo e publico manualmente os depoimentos nesta seção.",
+    "form": {
+      "name": "Nome",
+      "namePlaceholder": "Seu nome",
+      "roleCompany": "Cargo / Empresa",
+      "roleCompanyPlaceholder": "Opcional",
+      "comment": "Depoimento",
+      "commentPlaceholder": "Conte como foi trabalhar comigo",
+      "submit": "Enviar pelo WhatsApp",
+      "submitting": "Abrindo o WhatsApp...",
+      "hint": "Ao enviar, seu WhatsApp abre com o depoimento pronto — é só confirmar. Publico manualmente após revisar.",
+      "messageTitle": "Novo depoimento pelo portfólio",
+      "successTitle": "WhatsApp aberto.",
+      "successDescription": "Confirme o envio por lá — obrigado por compartilhar!",
+      "errorTitle": "Não foi possível abrir o WhatsApp.",
+      "errorDescription": "Tente novamente ou use o e-mail direto na seção de contato.",
+      "errors": {
+        "name": "Informe seu nome.",
+        "comment": "Escreva um depoimento."
+      }
+    }
+  },
+  "contact": {
+    "eyebrow": "Contato",
+    "title": "Tem uma ideia?",
+    "subtitle": "Fale sobre o projeto, oportunidade ou desafio — retorno o quanto antes.",
+    "directLabel": "Ou fale direto por",
+    "whatsapp": "WhatsApp",
+    "form": {
+      "name": "Nome",
+      "namePlaceholder": "Seu nome completo",
+      "email": "E-mail",
+      "emailPlaceholder": "voce@empresa.com",
+      "company": "Empresa",
+      "companyPlaceholder": "Opcional",
+      "projectType": "Tipo de projeto",
+      "projectTypePlaceholder": "Selecione uma opção",
+      "projectTypeOptions": {
+        "job": "Oportunidade de trabalho",
+        "freelance": "Projeto freelance",
+        "product": "Produto / SaaS",
+        "consulting": "Consultoria",
+        "other": "Outro"
+      },
+      "message": "Mensagem",
+      "messagePlaceholder": "Conte um pouco sobre o projeto ou oportunidade",
+      "submit": "Enviar pelo WhatsApp",
+      "submitting": "Abrindo o WhatsApp...",
+      "whatsappHint": "Ao enviar, seu WhatsApp abre com a mensagem já pronta — é só confirmar o envio.",
+      "whatsappMessageTitle": "Novo contato pelo portfólio",
+      "successTitle": "WhatsApp aberto.",
+      "successDescription": "Confirme o envio por lá para a mensagem chegar até mim.",
+      "errorTitle": "Não foi possível abrir o WhatsApp.",
+      "errorDescription": "Tente novamente ou use o e-mail direto abaixo.",
+      "errors": {
+        "name": "Informe seu nome.",
+        "email": "Informe um e-mail válido.",
+        "message": "Escreva uma mensagem."
+      }
+    }
+  },
+  "footer": {
+    "tagline": "Software · IA · Dados · Negócios",
+    "rights": "Todos os direitos reservados.",
+    "backToTop": "Voltar ao topo"
+  },
+  "a11y": {
+    "skipToContent": "Pular para o conteúdo",
+    "switchLanguage": "Mudar idioma",
+    "webglDisabled": "Cena 3D desativada — animação reduzida para melhor desempenho ou por preferência de movimento reduzido."
+  },
+  "common": {
+    "comingSoon": "Em breve",
+    "addPhoto": "[ADICIONAR FOTO]",
+    "addLink": "[ADICIONAR LINK]",
+    "addVideo": "[ADICIONAR VÍDEO]"
+  }
+}
